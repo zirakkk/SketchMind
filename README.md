@@ -29,6 +29,7 @@
 
 ## 📢 Latest Updates
 
+- **Dec-05-25**: Presented our paper at **NeurIPS 2025, San Diego**! 🔥
 - **Sep-18-25**: SketchMind accepted at **NeurIPS 2025**! 🔥🥳
 - **Jul-18-25**: Released complete multi-agent framework with both GPT-4 and LLaMA-4 implementations 🔥
 - **May-15-25**: Published comprehensive evaluation on 3,500+ scientific sketches across 6 NGSS-aligned assessment items  🔥
